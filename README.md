@@ -1,30 +1,44 @@
-## Hi there 👋
+**EN:**
+Trader turned developer.
 
-<!--
-**MaximRyabushkin/MaximRyabushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15 years of market experience focused on order flow, tape reading, footprint charts, and range bars.
 
-Here are some ideas to get you started:
+Self-taught Python developer building research tools and trading models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...                  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Обо мне
-Более 20 лет в финансах: Большая четвёрка (аудит), главный бухгалтер, финансовый директор.  
-Параллельно — многолетний опыт трейдинга (Forex → CME/FORTS → крипто), глубокое понимание order flow, Time & Sales, VSA и механики двойного аукциона.  
-С 2025 года полностью перешёл на системный подход → разработал собственного асинхронного торгового робота на Python.
+Background: CFO / Big4 audit.
 
-### About me
-20+ years in finance: Big4 audit, Chief Accountant, CFO.  
-Parallel path in trading (Forex → CME/MOEX FORTS → crypto), deep expertise in order flow, Time & Sales, VSA, double auction mechanics.  
-Since 2025 — fully systematic approach: built my own async trading bot in Python (BitGet Futures, GARCH volatility, multi-TF signals, Dash dashboard).
+Interested in roles where market microstructure meets code — algorithmic trading, fintech, quantitative research.
 
-### Ключевой проект / Key project
-**[bitget-trading-bot](https://github.com/твой-username/bitget-trading-bot)**  
-Асинхронный торговый робот с GARCH, VSA-подходом к объёмам, мультифреймовыми сигналами и дашбордом  
-→ Async trading bot with GARCH volatility modeling, volume-based signals (VSA-inspired), multi-timeframe analysis & Dash visualization
+## Research Interest
+
+Market microstructure and order flow.
+
+Currently working on a theoretical framework based on the assumption that profit-maximizing market participants must exhibit certain optimal position management patterns as a mathematical necessity.
+
+The goal is to transform this hypothesis into testable models and validate them empirically using historical trade data.
+
+---
+
+## Tech Stack
+
+Python  
+Asyncio  
+WebSockets  
+SQLite  
+Redis  
+Plotly / Dash  
+
+APIs: Bitget, crypto exchanges, T-Bank
+
+---
+
+## Current Projects
+
+BitGet_Robo_multi_range
+
+---
+
+## Contact
+
+LinkedIn  
+Email maximryabushkin1980@gmail.com
