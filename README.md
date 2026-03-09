@@ -1,4 +1,5 @@
 **EN:**
+
 Trader turned developer.
 
 15 years of market experience focused on order flow, tape reading, footprint charts, and range bars.
